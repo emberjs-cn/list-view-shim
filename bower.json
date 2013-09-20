@@ -1,0 +1,8 @@
+{
+  "name": "list-view",
+  "version": "0.0.1",
+  "main": "list-view.js",
+  "dependencies": {
+    "ember": "~1.0.0"
+  }
+}
